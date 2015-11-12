@@ -1,0 +1,58 @@
+Earthquakes Canada Online Bulletin - 20041111.2234 20051111.2234
+    Date    Time(UT)    Lat     Long  Depth   Mag   Agncy Region and Comment
+    -----------     ----    --------    ---     ----  -----   ---   ----- ------------------
+2004/11/15  11:51:21 60.690 -124.027   1.0g  2.8MN Southern Y.T. - N.W.T. border.          
+2004/11/20  10:19:23 56.529 -122.135  10.0g  2.3MN Near Fort St. John
+2004/11/20  12:59:54 56.478 -122.152  20.0g  2.0MN Near Fort St. John
+2004/11/26  05:59:11 62.105 -124.221   1.0g  3.2MN Mackenzie Mountains
+2004/11/30  01:40:45 56.420 -120.686   1.0g  2.5MN Near Fort St. John
+2004/11/30  08:02:20 62.371 -124.569   1.0g  3.2MN Mackenzie Mountains
+2004/12/03  17:16:24 56.524 -121.964   1.0g  2.3MN Near Fort St. John
+2004/12/04  05:12:09 56.553 -122.098   1.0g  2.4MN Near Fort St. John
+2004/12/05  02:23:39 61.849 -123.847  15.0g  2.5MN Mackenzie Mountains
+2004/12/09  15:26:57 56.484 -122.012   5.0g  2.8MN Near Fort St. John
+2004/12/10  10:51:26 56.488 -121.980   5.0g  2.4MN Near Fort St. John
+2004/12/12  11:54:58 56.531 -122.048   5.0g  1.8MN Near Fort St. John
+2004/12/14  03:10:08 56.484 -122.192  15.0g  2.2MN Near Fort St. John
+2004/12/19  10:40:21 56.506 -122.146  10.0g  1.9MN Near Fort St. John
+2004/12/24  10:24:57 56.432 -120.629   1.0g  2.2MN Near Fort St. John
+2004/12/27  23:27:18 56.391 -120.738  10.0g  3.7MN 17 km NE  of Fort St. John
+2004/12/28  00:28:34 56.374 -120.663   5.0g  2.7MN Near Fort St. John
+2005/01/08  12:13:16 56.474 -121.792   1.0g  1.7MN 63 km WNW of Fort St. John
+2005/01/11  21:27:57 55.568 -121.742   5.0g  2.0MN 94 km SW  of Fort St. John
+2005/01/14  18:38:54 56.489 -122.082  15.0g  2.3MN 80 km W   of Fort St. John
+2005/01/14  18:48:50 56.442 -122.359  25.0g  2.5MN 95 km W   of Fort St. John
+2005/01/15  19:52:01 56.521 -122.218  15.0g  2.6MN 89 km W   of Fort St. John
+2005/01/19  09:38:53 56.486 -122.140  10.0g  1.8MN 83 km W   of Fort St. John
+2005/01/21  11:38:25 56.541 -122.146   1.0g  2.1MN 86 km WNW of Fort St. John
+2005/01/28  06:28:22 56.502 -121.945  10.0g  2.0MN 73 km WNW of Fort St. John
+2005/02/02  08:01:43 56.487 -122.436  10.0g  1.8MN 101 km W   of Fort St. John
+2005/02/08  13:07:26 56.567 -121.890   1.0g  2.3MN Near Fort St. John
+2005/02/18  19:12:57 55.630 -121.718   1.0g  2.0MN 87 km SW  of Fort St. John
+2005/03/16  18:08:16 56.523 -121.597   1.0g  2.4MN Near Fort St. John
+2005/03/20  17:43:21 56.461 -122.373  20.0g  2.3MN Near Fort St. John
+2005/04/03  01:19:42 56.516 -122.305   5.0g  1.9MN Near Fort St. John
+2005/04/03  05:56:01 56.506 -122.341  10.0g  1.8MN Near Fort St. John
+2005/04/07  06:34:19 56.496 -122.273  10.0g  2.1MN Near Fort St. John
+2005/04/07  07:19:28 56.490 -122.244  10.0g  1.8MN Near Fort St. John
+2005/04/28  07:23:18 56.486 -122.225  10.0g  2.0MN Near Fort St. John
+2005/04/28  08:07:31 56.542 -122.258   1.0g  2.7MN Near Fort St. John
+2005/05/01  21:35:06 60.775 -127.750  10.0g  3.1MN Southeastern Yukon Territory.           
+2005/05/04  01:16:03 55.537 -121.929  10.0g  1.8ML Near Fort St. John
+2005/05/09  04:11:50 61.933 -124.087   1.0g  3.2MN Mackenzie Mountains
+2005/05/11  03:18:32 61.963 -124.170   1.0g  2.6MN Mackenzie Mountains
+2005/05/24  21:39:07 56.493 -122.292   1.0g  2.5MN Near Fort St. John
+2005/06/02  12:53:47 61.981 -124.346   1.0g  2.3MN Mackenzie Mountains
+2005/07/21  10:32:24 56.511 -122.390  10.0g  2.8MN Near Fort St. John
+2005/07/27  20:47:52 56.400 -120.673   5.0g  2.4ML Near Fort St. John
+2005/07/28  02:00:47 62.295 -124.493   1.0g  2.8MN Mackenzie Mountains
+2005/08/17  12:13:40 56.512 -122.292  10.0g  2.2MN Near Fort St. John
+2005/09/09  13:32:24 56.491 -122.399  10.0g  2.4MN Near Fort St. John
+2005/09/25  05:47:50 61.952 -124.364   1.0g  2.4MN Mackenzie Mountains
+2005/10/02  15:51:24 56.536 -122.216  10.0g  2.2MN Near Fort St. John
+2005/10/05  12:12:56 56.540 -122.344  10.0g  2.2MN Near Fort St. John
+2005/10/17  01:00:39 55.546 -121.970   5.0g  1.8ML Near Fort St. John
+2005/10/19  13:48:01 56.534 -121.890  10.0g  2.2MN Near Fort St. John
+2005/10/26  21:21:30 56.489 -122.200  10.0g  1.8MN Near Fort St. John
+2005/11/08  03:47:56 60.713 -118.128  10.0g  3.1MN Near Great Slave Lake.                  
+http://www.earthquakescanada.nrcan.gc.ca/

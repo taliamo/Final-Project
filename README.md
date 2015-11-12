@@ -1,4 +1,4 @@
-#Final Project
+Final Project
 Jessica O'Sullivan, 2015-10-27
 
 This is the parent file for the final project in Computation for the Physical
@@ -7,7 +7,7 @@ Sciences.
 The aim of my program is to measure the relationship between fracking in British Columbia,
 and earthquakes. I will be examining the relative proximity of earthquake epicenters and 
 the fracking sites. I would like to compare the depth of the well and the magnitude of 
-the regional earthquakes. 
+the regional earthquakes.
  
 The flow of the program is a simple comparison algorithm. In theory, it should be 
 applicable to any comparable data. For my own purposes, I will be munging the data with 
@@ -20,9 +20,9 @@ Given the nature of my data, I will have the code run a comparison between all t
 possible variables. So if I have variables A, B, C and variables 1, 2, 3, then A will be 
 compared with 1, 2 and 3: B will be compared with 1, 2 and 3, and so on. I will be
 using an if, than function to sort through data as it is analysed. Therefore, if the 
-comparison shows statistically significance, than the analysis will be shown through a 
+comparison shows statistical significance, than the analysis will be shown through a 
 stats summary and plot. If the comparison is not significant, the data will be stored in
-a separate folder. The variables that yield results will be scatter plotted, and a
+a separate folder. The variables that yield significant results will be scatter plotted, and a
 linear regression model will be superimposed on the plot to show the statistical 
 significance. 
 
@@ -35,4 +35,4 @@ For the fracking sites, I will be looking at the dates of fracking, the location
 
 Dependencies:
 1. Bash
-2. Python
+2. Python 3.4

@@ -1,0 +1,299 @@
+Earthquakes Canada Online Bulletin - 20141111.2234 20151111.2234
+    Date    Time(UT)    Lat     Long  Depth   Mag   Agncy Region and Comment
+    -----------     ----    --------    ---     ----  -----   ---   ----- ------------------
+2014/11/22  02:50:31 57.240 -122.544   6.0*  2.6ML 151 km WNW of Fort St. John
+2014/11/22  21:52:04 56.281 -121.909   5.0g  0.0   65 km W   of Fort St. John
+2014/11/23  01:34:03 56.331 -121.873  10.0g  2.8ML 63 km W   of Fort St. John
+2014/11/24  10:02:46 56.568 -122.376  10.0g  2.9ML 100 km WNW of Fort St. John
+2014/11/24  21:30:18 57.287 -122.778   5.0g  1.9ML 164 km WNW of Fort St. John
+2014/11/25  02:21:19 56.554 -122.444  10.0g  2.3ML 103 km W   of Fort St. John
+2014/11/26  17:19:24 57.282 -122.753   5.0g  1.9ML 163 km WNW of Fort St. John
+2014/11/28  00:19:16 57.592 -125.820   5.0g  2.3ML 227 km WSW of Fort Nelson
+2014/12/01  08:22:37 56.721 -121.321  10.0g  1.8ML 59 km NW  of Fort St. John
+2014/12/01  19:55:34 57.245 -122.674   5.0g  2.0ML 157 km WNW of Fort St. John
+2014/12/02  11:17:21 56.492 -122.284  10.0g  2.0ML 92 km W   of Fort St. John
+2014/12/02  18:36:40 56.766 -121.498  10.0g  2.1ML 69 km NW  of Fort St. John
+2014/12/02  18:49:16 56.768 -121.554  10.0g  2.0ML 72 km NW  of Fort St. John
+2014/12/02  18:59:29 56.770 -121.516   5.0g  2.0ML 70 km NW  of Fort St. John
+2014/12/05  20:18:11 57.181 -122.458   5.0g  2.2ML 142 km WNW of Fort St. John
+2014/12/06  09:25:51 57.295 -122.584   5.0g  2.1ML 157 km WNW of Fort St. John
+2014/12/06  17:04:43 56.555 -122.341  10.0g  2.1ML 97 km WNW of Fort St. John
+2014/12/07  18:55:20 56.317 -121.903   5.0g  2.5ML 65 km W   of Fort St. John
+2014/12/08  10:02:18 57.282 -122.597   5.0g  2.2ML 156 km WNW of Fort St. John
+2014/12/11  10:46:25 56.300 -121.979  15.0g  1.9ML 70 km W   of Fort St. John
+2014/12/11  16:57:32 55.865 -120.161  10.0g  2.5ML 11 km NE  of Dawson Creek
+2014/12/13  08:28:13 57.305 -122.493   5.0g  1.6ML 154 km WNW of Fort St. John
+2014/12/13  14:04:07 57.128 -122.282   1.0g  1.7ML 131 km WNW of Fort St. John
+2014/12/13  16:27:04 57.303 -122.579   1.0g  1.5ML 157 km WNW of Fort St. John
+2014/12/16  08:44:27 56.470 -122.384  11.8*  2.1ML 97 km W   of Fort St. John
+2014/12/16  10:24:47 56.485 -122.289   0.0g  2.0ML 92 km W   of Fort St. John
+2014/12/16  10:43:43 56.476 -122.412  13.9*  2.0ML 99 km W   of Fort St. John
+2014/12/17  10:01:48 56.344 -121.890   7.9*  3.5ML 65 km W   of Fort St. John
+2014/12/17  16:34:30 56.313 -121.858   5.0g  2.2ML 62 km W   of Fort St. John
+2014/12/18  05:25:38 56.495 -122.190  10.0g  2.0ML 87 km W   of Fort St. John
+2014/12/18  11:57:50 56.298 -121.962  15.0g  2.0ML 68 km W   of Fort St. John
+2014/12/20  13:05:30 56.300 -121.905  20.0g  2.4ML 65 km W   of Fort St. John
+2014/12/21  00:18:36 56.533 -122.242   5.0g  3.1ML 91 km WNW of Fort St. John
+2014/12/22  23:18:16 55.092 -124.141   4.0*  1.9ML 158 km NW  of Prince George
+2014/12/23  19:05:57 56.320 -121.949   5.0g  1.5ML 68 km W   of Fort St. John
+2014/12/26  05:03:29 56.357 -121.882   0.0*  2.2ML 64 km W   of Fort St. John
+2014/12/27  10:28:58 56.335 -121.843   5.9*  2.4ML 62 km W   of Fort St. John
+2014/12/29  15:03:13 56.335 -121.905   5.0g  3.3ML 65 km W   of Fort St. John
+2014/12/30  15:59:05 56.791 -125.185   5.0g  2.0ML 268 km SW  of Fort Nelson
+2015/01/02  01:15:38 56.305 -122.122  20.0g  2.3ML 78 km W   of Fort St. John
+2015/01/05  02:10:58 56.325 -121.918  10.0g  2.2ML 66 km W   of Fort St. John
+2015/01/08  01:35:27 56.591 -122.368   5.0g  1.6ML 100 km WNW of Fort St. John
+2015/01/11  02:24:08 56.544 -121.885  10.0g  1.9ML 71 km WNW of Fort St. John
+2015/01/13  10:37:56 62.272 -124.599   1.0g  3.0ML 183 km W   of Fort Simpson
+2015/01/14  02:25:49 56.470 -122.297   5.0g  2.4ML 92 km W   of Fort St. John
+2015/01/15  06:13:04 57.261 -122.533   5.0g  2.8ML 152 km WNW of Fort St. John
+2015/01/15  06:22:10 57.263 -122.484   5.0g  1.7ML 150 km WNW of Fort St. John
+2015/01/15  06:42:01 57.269 -122.580  10.0g  1.9ML 154 km WNW of Fort St. John
+2015/01/15  07:18:36 56.422 -121.822  10.0g  2.2ML 62 km W   of Fort St. John
+2015/01/15  23:47:18 57.255 -122.586   5.0g  2.1ML 154 km WNW of Fort St. John
+2015/01/16  00:56:49 57.277 -122.500   5.0g  1.9ML 152 km WNW of Fort St. John
+2015/01/17  19:57:33 55.090 -124.097  10.0g  2.8ML 156 km NW  of Prince George
+2015/01/18  05:50:41 57.267 -122.474   5.0g  2.3ML 150 km WNW of Fort St. John
+2015/01/18  23:33:20 57.303 -122.656   5.0g  1.8ML 160 km WNW of Fort St. John
+2015/01/20  15:20:10 57.321 -122.575   7.5*  1.6ML 158 km WNW of Fort St. John
+2015/01/21  00:51:28 57.253 -122.577  10.5*  1.9ML 153 km WNW of Fort St. John
+2015/01/21  16:14:19 57.266 -122.597   7.0*  1.9ML 155 km WNW of Fort St. John
+2015/01/23  22:50:52 55.121 -124.203   5.0g  2.2ML 163 km NW  of Prince George
+2015/01/28  11:17:10 62.272 -124.659   5.0g  3.1ML 186 km W   of Fort Simpson
+2015/01/29  16:16:23 60.553 -124.079  10.0g  2.1ML 203 km WSW of Fort Simpson
+2015/01/29  21:33:47 57.262 -122.549   4.6*  2.0ML 153 km WNW of Fort St. John
+2015/01/31  23:03:46 55.140 -124.341   9.9*  2.3ML 170 km NW  of Prince George
+2015/02/01  04:27:31 57.313 -122.665  10.1*  1.7ML 162 km WNW of Fort St. John
+2015/02/02  03:59:39 56.038 -122.624  30.6*  1.9ML 112 km W   of Fort St. John
+2015/02/05  06:41:00 56.309 -121.936  12.0*  2.1ML 67 km W   of Fort St. John
+2015/02/05  13:27:58 56.867 -122.783  20.0g  1.9ML 137 km WNW of Fort St. John
+2015/02/06  23:28:56 56.867 -122.368   5.0g  2.4ML 115 km WNW of Fort St. John
+2015/02/08  02:58:41 57.348 -122.436   1.0g  1.9ML 155 km NW  of Fort St. John
+2015/02/08  10:21:05 56.103 -120.019   1.0g  2.6ML 39 km NNE of Dawson Creek
+2015/02/08  15:32:06 57.346 -122.440   5.0g  1.7ML 155 km NW  of Fort St. John
+2015/02/08  16:09:19 57.228 -122.649   1.0g  1.9ML 154 km WNW of Fort St. John
+2015/02/08  21:40:15 57.255 -122.476   1.0g  1.5ML 149 km WNW of Fort St. John
+2015/02/09  02:23:27 56.875 -122.205   5.0g  1.7ML 108 km WNW of Fort St. John
+2015/02/09  22:19:42 56.902 -122.229   2.7*  2.4ML 111 km WNW of Fort St. John
+2015/02/09  22:20:59 56.870 -122.201   5.9*  2.1ML 107 km WNW of Fort St. John
+2015/02/09  22:47:27 56.969 -122.313   9.2*  1.8ML 120 km WNW of Fort St. John
+2015/02/10  22:51:09 55.117 -124.141  11.6*  2.3ML 161 km NW  of Prince George
+2015/02/11  16:18:26 57.353 -122.455   7.4*  1.9ML 157 km NW  of Fort St. John
+2015/02/12  05:16:30 57.348 -122.407   1.0g  1.5ML 154 km NW  of Fort St. John
+2015/02/12  13:34:51 56.307 -121.821   1.0g  1.8ML 60 km W   of Fort St. John
+2015/02/12  19:03:39 56.312 -122.073  10.0g  1.7ML 75 km W   of Fort St. John
+2015/02/15  03:58:21 57.160 -122.508  10.0g  2.0ML 143 km WNW of Fort St. John
+2015/02/17  11:44:54 56.152 -122.148  30.4*  0.6ML 81 km W   of Fort St. John
+2015/02/17  23:39:24 57.649 -129.599   1.0g  2.5ML 91 km SSE of Dease Lk.
+2015/02/19  07:12:13 57.233 -122.640   1.0g  1.6ML 154 km WNW of Fort St. John
+2015/02/20  07:43:14 56.928 -122.178   5.0g  2.6ML 111 km WNW of Fort St. John
+2015/02/22  13:21:31 56.487 -122.260  10.0g  1.8ML 90 km W   of Fort St. John
+2015/02/26  16:43:57 56.303 -121.910   4.5*  2.6ML 65 km W   of Fort St. John
+2015/02/27  07:39:12 56.298 -121.909  11.5*  2.2ML 65 km W   of Fort St. John
+2015/03/01  11:30:44 56.966 -122.090  10.0g  3.1ML 110 km WNW of Fort St. John
+2015/03/01  13:59:56 57.264 -122.560   5.0g  1.4ML 153 km WNW of Fort St. John
+2015/03/03  02:45:03 56.547 -122.414  14.4*  1.9ML 101 km W   of Fort St. John
+2015/03/05  07:19:36 61.636 -125.657   1.0g  2.9ML 232 km W   of Fort Simpson
+2015/03/06  23:04:02 55.164 -124.246   1.0g  2.5ML 169 km NW  of Prince George
+2015/03/07  03:36:51 56.312 -121.934  14.1*  1.8ML 67 km W   of Fort St. John
+2015/03/08  17:23:55 57.244 -122.100   5.0g  2.4ML 134 km NW  of Fort St. John
+2015/03/10  18:42:34 56.318 -121.921   5.0g  2.0ML 66 km W   of Fort St. John
+2015/03/10  20:07:42 56.445 -121.851  13.2*  1.9ML 65 km W   of Fort St. John
+2015/03/12  11:53:08 56.767 -121.777   8.4*  2.2ML 80 km WNW of Fort St. John
+2015/03/15  01:12:02 56.946 -122.179   5.0g  1.9ML 112 km WNW of Fort St. John
+2015/03/15  20:32:21 56.962 -122.173   1.0g  2.0ML 113 km WNW of Fort St. John
+2015/03/16  00:20:13 55.433 -123.152   5.0g  1.3ML 170 km WSW of Fort St. John
+2015/03/16  00:21:18 55.428 -123.160  10.0g  1.7ML 170 km WSW of Fort St. John
+2015/03/16  01:15:02 55.426 -123.190   5.0g  1.9ML 170 km NNW of Prince George
+2015/03/16  03:08:50 56.948 -122.163  10.0g  1.9ML 111 km WNW of Fort St. John
+2015/03/16  06:39:10 55.337 -127.758  10.0g  2.0ML 105 km NE  of Terrace
+2015/03/16  06:40:36 55.362 -128.137   1.0g  2.0ML 98 km NNE of Terrace
+2015/03/19  08:40:39 56.290 -121.933  10.0g  2.0ML 67 km W   of Fort St. John
+2015/03/21  15:49:20 56.215 -122.128   8.7*  3.0ML 79 km W   of Fort St. John
+2015/03/24  19:34:35 55.139 -124.231   9.6g  2.1ML 166 km NW  of Prince George
+2015/03/26  14:27:20 55.791 -128.240   5.0g  2.4ML 110 km E   of Stewart
+2015/03/26  15:05:36 55.787 -128.256   5.0g  2.4ML 109 km E   of Stewart
+2015/03/26  16:42:37 56.684 -122.063  10.0g  1.9ML 88 km WNW of Fort St. John
+2015/03/26  22:55:15 56.328 -122.062   5.0g  1.7ML 75 km W   of Fort St. John
+2015/03/29  00:41:39 56.854 -121.992   5.0g  1.9ML 97 km WNW of Fort St. John
+2015/03/29  05:46:29 57.381 -127.872   1.0g  2.8ML 173 km ESE of Dease Lk.
+2015/03/29  12:14:31 56.962 -122.167   5.0g  1.7ML 113 km WNW of Fort St. John
+2015/04/04  03:28:48 56.452 -121.800   5.8*  2.1ML 62 km WNW of Fort St. John
+2015/04/05  17:54:39 56.064 -121.070   5.0g  2.2ML 24 km SW  of Fort St. John
+2015/04/06  02:34:56 56.886 -122.212   5.0g  3.0ML 109 km WNW of Fort St. John
+2015/04/21  09:20:15 56.443 -121.803  10.0g  1.3ML 62 km WNW of Fort St. John
+2015/04/21  21:19:53 56.605 -122.264   1.0g  1.4ML 95 km WNW of Fort St. John
+2015/04/23  05:12:43 56.286 -121.956  17.6*  1.3ML 68 km W   of Fort St. John
+2015/04/23  05:58:07 56.297 -121.901  11.1*  1.5ML 65 km W   of Fort St. John
+2015/04/23  09:55:22 61.743 -128.046  10.0g  3.0ML 185 km NNE of Watson Lk.
+2015/04/25  17:35:23 57.597 -125.943   5.0g  2.2ML 232 km WSW of Fort Nelson
+2015/04/27  09:01:59 56.633 -122.240  10.0g  1.4ML 95 km WNW of Fort St. John
+2015/04/27  09:49:51 56.631 -122.333  10.0g  1.9ML 100 km WNW of Fort St. John
+2015/04/27  11:31:52 56.628 -122.126  10.0g  1.8ML 89 km WNW of Fort St. John
+2015/05/02  15:43:30 56.320 -121.853   5.0g  2.0ML 62 km W   of Fort St. John
+2015/05/05  22:39:41 56.413 -121.854   1.0g  2.0ML 64 km W   of Fort St. John
+2015/05/06  20:10:29 56.334 -121.915   1.0g  1.4ML 66 km W   of Fort St. John
+2015/05/06  20:27:59 56.329 -121.918  10.0g  1.3ML 66 km W   of Fort St. John
+2015/05/06  20:28:32 56.304 -121.951  20.0g  1.4ML 68 km W   of Fort St. John
+2015/05/10  06:48:38 56.397 -121.845   5.0g  2.1ML 63 km W   of Fort St. John
+2015/05/10  11:47:01 56.456 -121.844   5.0g  2.2ML 65 km WNW of Fort St. John
+2015/05/11  23:24:02 56.651 -122.105   1.0g  1.6ML 89 km WNW of Fort St. John
+2015/05/16  18:28:53 55.071 -124.002  10.0g  1.8ML 151 km NW  of Prince George
+2015/05/18  01:13:42 56.290 -121.947   5.0g  1.2ML 67 km W   of Fort St. John
+2015/05/19  06:38:29 56.866 -121.736  10.0g  1.2ML 87 km NW  of Fort St. John
+2015/05/19  10:12:53 55.958 -120.408   1.0g  1.2ML 23 km NW  of Dawson Creek
+2015/05/25  13:54:34 56.999 -121.958  10.0g  1.4ML 107 km NW  of Fort St. John
+2015/05/26  02:15:51 56.278 -117.113   1.0g  2.8ML 4 km ENE of Peace R.
+2015/05/26  15:42:27 56.270 -117.132   1.0g  2.8ML 3 km ENE of Peace R.
+2015/05/28  01:52:16 62.106 -124.038   1.0g  2.8ML 150 km W   of Fort Simpson
+2015/05/28  18:01:50 62.096 -124.058   1.0g  2.9ML 151 km W   of Fort Simpson
+2015/05/31  23:32:59 62.098 -124.007  10.0g  3.5ML 148 km W   of Fort Simpson
+2015/06/07  18:17:23 57.752 -130.164   5.0g  2.9ML 76 km SSW of Dease Lk.
+2015/06/10  10:32:00 55.151 -123.095  20.0g  2.4ML 139 km NNW of Prince George
+2015/06/10  10:34:46 55.183 -123.138  20.0g  2.6ML 143 km NNW of Prince George
+2015/06/10  12:10:28 55.183 -123.101   5.0g  2.5ML 142 km NNW of Prince George
+2015/06/10  12:18:46 55.176 -123.133  20.0g  2.4ML 142 km NNW of Prince George
+2015/06/16  23:52:29 62.114 -123.998  15.0g  3.6ML 148 km W   of Fort Simpson
+2015/06/17  04:32:11 62.063 -124.092   5.0g  2.6ML 152 km W   of Fort Simpson
+2015/06/19  02:58:15 62.068 -124.094   1.0g  2.7ML 152 km W   of Fort Simpson
+2015/06/19  11:00:35 62.130 -124.124  10.0g  2.7ML 155 km W   of Fort Simpson
+2015/06/30  18:13:10 57.892 -129.776  22.0*  2.3ML 62 km SSE of Dease Lk.
+2015/07/08  08:19:34 55.916 -120.336   1.0g  2.6ML 17 km NW  of Dawson Creek
+2015/07/08  10:48:39 55.891 -120.348   5.0g  2.6ML 15 km NW  of Dawson Creek
+2015/07/08  23:02:09 55.883 -120.238   5.0g  2.4ML 12 km N   of Dawson Creek
+2015/07/16  13:25:03 56.535 -120.716   5.0g  2.2ML 32 km NNE of Fort St. John
+2015/07/20  12:14:17 62.019 -124.026  10.0g  2.8ML 148 km W   of Fort Simpson
+2015/07/24  06:16:43 56.569 -122.409   9.5*  2.3ML 102 km WNW of Fort St. John
+2015/07/25  15:19:32 57.705 -129.816   1.0g  1.8ML 82 km SSE of Dease Lk.
+2015/07/26  21:50:28 55.046 -123.964  20.0g  2.0ML 148 km NW  of Prince George
+2015/07/28  03:14:09 55.922 -120.760   5.0g  1.3ML 36 km SSE of Fort St. John
+2015/07/28  10:30:06 60.540 -124.064  15.0g  2.5ML 203 km WSW of Fort Simpson
+2015/07/29  05:37:16 56.344 -121.920   1.0g  1.5ML 66 km W   of Fort St. John
+2015/07/31  19:35:52 57.135 -122.861  13.2*  1.6ML 157 km WNW of Fort St. John
+2015/08/04  13:27:48 56.548 -122.400  10.0g  2.1ML 101 km W   of Fort St. John
+2015/08/08  02:34:15 56.226 -122.096   5.0g  1.7ML 77 km W   of Fort St. John
+2015/08/08  03:42:24 56.385 -121.868  13.8*  1.3ML 64 km W   of Fort St. John
+2015/08/12  14:32:11 56.103 -122.183  21.3*  1.6ML 84 km W   of Fort St. John
+2015/08/13  08:22:46 61.624 -128.261  10.0g  2.8ML 170 km NNE of Watson Lk.
+2015/08/15  17:17:45 57.308 -122.724   8.2*  1.6ML 164 km WNW of Fort St. John
+2015/08/17  08:29:47 56.712 -121.843  15.0g  1.4ML 79 km WNW of Fort St. John
+2015/08/17  15:34:29 56.667 -122.081  10.0g  1.4ML 88 km WNW of Fort St. John
+2015/08/17  20:15:00 57.013 -122.154   5.0g  4.6Mw 116 km WNW of Fort St. John
+2015/08/17  20:34:11 56.998 -122.329  20.0g  1.4ML 123 km WNW of Fort St. John
+2015/08/17  21:00:13 56.969 -122.259  15.0g  1.5ML 117 km WNW of Fort St. John
+2015/08/17  22:04:45 56.974 -122.199  15.0g  1.6ML 115 km WNW of Fort St. John
+2015/08/17  23:42:41 56.990 -122.174   5.0g  2.9ML 115 km WNW of Fort St. John
+2015/08/20  04:57:54 56.367 -122.630  20.0g  1.2ML 110 km W   of Fort St. John
+2015/08/22  03:33:28 61.593 -128.306  10.0g  2.5ML 166 km NNE of Watson Lk.
+2015/08/23  01:50:05 56.998 -122.184   5.0g  1.9ML 116 km WNW of Fort St. John
+2015/08/28  03:52:18 56.605 -122.316  12.1*  3.3ML 98 km WNW of Fort St. John
+2015/09/02  02:10:54 57.007 -122.327   5.0g  1.4ML 123 km WNW of Fort St. John
+2015/09/02  04:49:21 57.012 -122.325  10.0g  1.6ML 123 km WNW of Fort St. John
+2015/09/02  07:27:31 57.038 -122.184   5.0g  1.8ML 119 km WNW of Fort St. John
+2015/09/02  07:28:11 57.024 -122.332  10.0g  2.4ML 125 km WNW of Fort St. John
+2015/09/02  07:33:43 57.012 -122.211  10.0g  2.5ML 118 km WNW of Fort St. John
+2015/09/02  07:34:17 57.005 -122.367  10.0g  2.8ML 125 km WNW of Fort St. John
+2015/09/02  07:42:34 57.014 -122.122   5.0g  3.5ML 115 km WNW of Fort St. John
+2015/09/02  07:46:25 57.014 -122.388  10.0g  1.9ML 126 km WNW of Fort St. John
+2015/09/02  13:13:36 57.026 -122.269   1.0g  1.7ML 122 km WNW of Fort St. John
+2015/09/02  18:21:08 57.019 -122.259  10.0g  1.5ML 121 km WNW of Fort St. John
+2015/09/03  05:24:43 57.497 -122.962   5.0g  2.2ML 147 km S   of Fort Nelson
+2015/09/03  05:30:04 57.026 -122.311  10.0g  1.4ML 124 km WNW of Fort St. John
+2015/09/03  05:34:41 57.017 -122.375  10.0g  2.0ML 126 km WNW of Fort St. John
+2015/09/03  06:38:18 61.788 -126.234   5.0g  2.8ML 232 km ENE of Watson Lk.
+2015/09/03  21:31:50 56.631 -122.396  10.0g  1.8ML 104 km WNW of Fort St. John
+2015/09/04  04:04:40 57.003 -122.316   5.0g  1.5ML 122 km WNW of Fort St. John
+2015/09/06  04:36:04 56.431 -121.824  10.0g  1.8ML 63 km W   of Fort St. John
+2015/09/07  18:18:28 56.749 -122.001  15.0g  1.7ML 89 km WNW of Fort St. John
+2015/09/07  20:33:43 56.776 -122.135  15.0g  2.1ML 98 km WNW of Fort St. John
+2015/09/09  14:58:56 56.764 -122.140  15.0g  2.2ML 97 km WNW of Fort St. John
+2015/09/10  09:00:53 56.749 -122.344  20.0g  1.8ML 107 km WNW of Fort St. John
+2015/09/11  05:42:32 55.886 -129.955  10.5*  2.8ML 5 km SSE of Stewart
+2015/09/15  04:06:46 57.142 -122.627   7.8*  1.7ML 147 km WNW of Fort St. John
+2015/09/15  10:46:10 57.179 -122.223  20.0g  1.8ML 133 km NW  of Fort St. John
+2015/09/15  12:12:26 57.221 -122.036   7.6*  2.6ML 130 km NW  of Fort St. John
+2015/09/15  14:14:21 57.173 -122.256  20.0g  1.7ML 133 km WNW of Fort St. John
+2015/09/16  02:50:49 57.204 -122.096  14.7*  1.6ML 130 km NW  of Fort St. John
+2015/09/16  02:59:27 57.198 -122.012  10.6*  3.0ML 127 km NW  of Fort St. John
+2015/09/16  03:12:39 56.750 -122.418  18.2*  2.1ML 111 km WNW of Fort St. John
+2015/09/16  13:05:40 57.206 -122.103  12.9*  2.1ML 131 km NW  of Fort St. John
+2015/09/16  17:13:10 57.201 -122.044   8.1*  2.5ML 128 km NW  of Fort St. John
+2015/09/17  14:08:29 57.199 -122.126  14.1*  1.3ML 131 km NW  of Fort St. John
+2015/09/18  04:46:47 57.173 -122.034  10.1*  1.8ML 125 km NW  of Fort St. John
+2015/09/20  13:32:46 57.203 -122.005   2.0*  1.6ML 127 km NW  of Fort St. John
+2015/09/22  02:01:08 57.254 -121.996   9.0*  1.8ML 131 km NW  of Fort St. John
+2015/09/23  09:57:00 57.197 -122.176  17.7*  1.6ML 132 km NW  of Fort St. John
+2015/09/24  00:18:58 56.570 -122.384   5.0g  1.9ML 100 km WNW of Fort St. John
+2015/09/24  02:20:58 57.309 -122.460   1.0g  1.3ML 153 km WNW of Fort St. John
+2015/09/24  08:08:59 57.300 -122.494   1.0g  1.5ML 154 km WNW of Fort St. John
+2015/09/24  08:10:13 57.299 -122.490   1.0g  2.2ML 153 km WNW of Fort St. John
+2015/09/24  15:45:36 57.240 -122.037   1.0g  2.5ML 131 km NW  of Fort St. John
+2015/09/24  19:41:29 55.940 -120.267   4.2*  2.0ML 19 km NNW of Dawson Creek
+2015/09/24  20:21:59 55.940 -120.237   5.0g  1.4ML 19 km N   of Dawson Creek
+2015/09/24  22:47:16 57.297 -122.473   8.7*  2.5ML 152 km WNW of Fort St. John
+2015/09/25  00:12:06 55.936 -120.258   7.4*  2.1ML 18 km N   of Dawson Creek
+2015/09/25  02:12:19 55.944 -120.236   4.9*  2.1ML 19 km N   of Dawson Creek
+2015/09/25  02:59:31 56.302 -121.851  11.1*  2.3ML 62 km W   of Fort St. John
+2015/09/25  03:49:05 55.929 -120.266   7.8*  1.8ML 18 km NNW of Dawson Creek
+2015/09/26  08:55:16 57.011 -122.289  10.0g  3.0ML 122 km WNW of Fort St. John
+2015/09/26  13:37:54 61.929 -124.130   1.0g  3.3ML 152 km W   of Fort Simpson
+2015/09/27  15:44:48 55.938 -120.386   9.5*  2.4ML 21 km NW  of Dawson Creek
+2015/09/27  16:24:54 55.946 -120.290   6.7*  2.4ML 20 km NNW of Dawson Creek
+2015/09/27  21:01:53 55.939 -120.218   4.9*  2.2ML 19 km N   of Dawson Creek
+2015/09/27  21:33:42 55.145 -124.237   7.4*  2.5ML 167 km NW  of Prince George
+2015/09/28  00:31:32 55.948 -120.281   7.3*  1.9ML 20 km NNW of Dawson Creek
+2015/09/28  01:58:23 57.304 -122.438   7.5*  2.0ML 152 km WNW of Fort St. John
+2015/09/28  07:23:08 57.303 -122.618   7.8*  1.3ML 159 km WNW of Fort St. John
+2015/09/28  11:44:44 57.029 -122.179   2.7*  1.9ML 118 km WNW of Fort St. John
+2015/09/28  13:17:19 55.943 -120.240   1.0g  1.3ML 19 km N   of Dawson Creek
+2015/09/29  05:18:22 55.942 -120.288   1.0g  2.1ML 19 km NNW of Dawson Creek
+2015/09/29  06:36:41 55.962 -120.283   4.3*  1.7ML 21 km NNW of Dawson Creek
+2015/09/29  21:35:01 56.946 -122.078   5.3*  1.7ML 108 km WNW of Fort St. John
+2015/09/29  22:19:02 56.929 -122.083   8.5*  1.8ML 106 km WNW of Fort St. John
+2015/09/30  09:27:19 55.947 -120.243   2.3*  2.1ML 19 km N   of Dawson Creek
+2015/09/30  11:39:30 55.941 -120.275   3.7*  2.1ML 19 km NNW of Dawson Creek
+2015/09/30  18:32:49 56.907 -122.228   5.0g  2.1ML 111 km WNW of Fort St. John
+2015/09/30  18:34:31 56.946 -122.064   5.0g  2.5ML 107 km WNW of Fort St. John
+2015/10/01  19:27:42 56.318 -121.866   5.0g  1.5ML 63 km W   of Fort St. John
+2015/10/02  22:45:48 56.112 -121.095   5.0g  2.2ML 21 km WSW of Fort St. John
+2015/10/02  23:27:33 56.111 -121.096  10.0g  2.2ML 21 km WSW of Fort St. John
+2015/10/02  23:44:44 56.121 -121.088   5.0g  1.7ML 20 km WSW of Fort St. John
+2015/10/03  00:37:51 56.124 -121.064   7.3*  1.9ML 19 km WSW of Fort St. John
+2015/10/03  19:11:21 60.299 -127.001  20.0g  2.4ML 102 km E   of Watson Lk.
+2015/10/03  21:25:28 55.100 -124.056   7.9*  2.4ML 156 km NW  of Prince George
+2015/10/03  21:39:27 56.105 -121.118  11.0*  2.0ML 23 km WSW of Fort St. John
+2015/10/03  23:22:49 56.110 -121.113   6.1*  2.2ML 22 km WSW of Fort St. John
+2015/10/04  13:14:28 56.400 -121.652  12.4*  1.8ML 52 km W   of Fort St. John
+2015/10/05  04:21:16 57.304 -122.606  10.0g  1.9ML 158 km WNW of Fort St. John
+2015/10/05  10:04:15 56.540 -122.394  10.0g  1.8ML 100 km W   of Fort St. John
+2015/10/06  02:09:18 57.298 -122.557  10.0g  1.7ML 156 km WNW of Fort St. John
+2015/10/06  12:09:19 56.114 -121.118   5.7*  1.4ML 22 km WSW of Fort St. John
+2015/10/07  03:44:04 56.101 -121.087  10.0g  1.9ML 22 km WSW of Fort St. John
+2015/10/08  13:10:37 56.555 -122.326   1.9*  1.6ML 97 km WNW of Fort St. John
+2015/10/08  15:08:51 57.204 -122.000   6.4*  1.8ML 127 km NW  of Fort St. John
+2015/10/12  11:22:46 57.002 -122.222  11.1*  2.3ML 118 km WNW of Fort St. John
+2015/10/13  00:25:54 57.198 -122.052   5.0g  2.0ML 128 km NW  of Fort St. John
+2015/10/15  12:35:56 56.619 -122.398   5.8*  2.6ML 103 km WNW of Fort St. John
+2015/10/15  19:32:46 56.938 -122.145  10.0g  2.1ML 110 km WNW of Fort St. John
+2015/10/22  04:20:56 56.523 -122.300  20.0g  2.5ML 94 km W   of Fort St. John
+2015/10/23  12:12:37 56.298 -121.928  10.0g  2.2ML 66 km W   of Fort St. John
+2015/10/23  13:22:23 56.338 -121.998   5.0g  2.0ML 71 km W   of Fort St. John
+2015/10/23  15:00:31 56.085 -121.034   5.0g  1.8ML 21 km SW  of Fort St. John
+2015/10/23  17:05:10 56.338 -122.018   5.0g  1.7ML 72 km W   of Fort St. John
+2015/10/23  17:28:39 56.933 -121.998  10.0g  1.8ML 103 km WNW of Fort St. John
+2015/10/26  15:12:30 56.914 -121.948   5.0g  2.4ML 100 km WNW of Fort St. John
+2015/10/26  21:37:12 55.132 -124.147  15.0g  3.0ML 162 km NW  of Prince George
+2015/10/27  17:21:15 57.018 -122.189  10.0g  1.7ML 118 km WNW of Fort St. John
+2015/11/03  09:59:42 57.218 -122.511   1.0g  2.1ML 147 km WNW of Fort St. John
+2015/11/03  10:09:33 56.029 -120.998  10.0g  2.6ML 26 km SW  of Fort St. John
+2015/11/03  12:41:05 57.233 -122.471   5.0g  3.6ML 147 km WNW of Fort St. John
+2015/11/03  22:26:14 56.744 -122.126   5.0g  2.2ML 95 km WNW of Fort St. John
+2015/11/04  06:27:35 56.606 -129.749   5.0g  2.8ML 76 km NNE of Stewart
+2015/11/04  12:38:12 56.304 -117.244   5.0g  3.0ML 7 km NW  of Peace R.
+2015/11/04  16:34:46 54.098 -121.664   5.0g  2.0ML 73 km E   of Prince George
+2015/11/05  11:12:47 56.754 -122.062  20.0g  2.0ML 93 km WNW of Fort St. John
+2015/11/05  14:37:13 56.822 -122.156   5.0g  2.5ML 102 km WNW of Fort St. John
+2015/11/09  11:58:00 56.586 -122.386  10.0g  2.0ML 101 km WNW of Fort St. John
+2015/11/09  12:48:41 54.156 -121.726   1.0g  2.3ML 72 km ENE of Prince George
+2015/11/10  10:23:06 56.558 -122.135  15.0g  1.7ML 86 km WNW of Fort St. John
+http://www.earthquakescanada.nrcan.gc.ca/
